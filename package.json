@@ -1,0 +1,37 @@
+{
+  "name": "com.natteens.lightfogurp",
+  "version": "0.0.1",
+  "displayName": "LightFogURP",
+  "description": "LightFogURP \u00e9 um sistema de fog volum\u00e9trica leve e personaliz\u00e1vel para Unity URP.",
+  "keywords": [
+    "Unity",
+    "GameDev",
+    "LightFogURP"
+  ],
+  "author": {
+    "name": "Nathan da Silva Miranda",
+    "email": "nathanmiranda1102@gmail.com",
+    "url": "https://github.com/Natteens"
+  },
+  "unity": "2021.3",
+  "samples": [
+    {
+      "displayName": "2D Sample",
+      "description": "Exemplo demonstrando o uso do LightFogURP em um jogo 2D.",
+      "path": "Samples~/2D Sample"
+    },
+    {
+      "displayName": "3D Sample",
+      "description": "Exemplo demonstrando o uso do LightFogURP em um jogo 3D.",
+      "path": "Samples~/3D Sample"
+    },
+    {
+      "displayName": "Utilities Sample",
+      "description": "Utilit\u00e1rios e prefabs de exemplo para testes e desenvolvimento.",
+      "path": "Samples~/Utilities Sample"
+    }
+  ],
+  "documentationUrl": "https://github.com/Natteens/LightFogURP",
+  "changelogUrl": "https://github.com/Natteens/LightFogURP/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Natteens/LightFogURP/blob/main/LICENSE.md"
+}

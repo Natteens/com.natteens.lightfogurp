@@ -1,0 +1,10 @@
+{
+  "name": "com.natteens.lightfogurp.editor",
+  "rootNamespace": "Natteens.LightFogURP",
+  "references": [
+    "com.natteens.lightfogurp"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
