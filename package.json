@@ -1,8 +1,8 @@
 {
   "name": "com.natteens.lightfogurp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "LightFogURP",
-  "description": "LightFogURP \u00e9 um sistema de fog volum\u00e9trica leve e personaliz\u00e1vel para Unity URP.",
+  "description": "LightFogURP é um sistema de fog volumétrica leve e personalizável para Unity URP.",
   "keywords": [
     "Unity",
     "GameDev",
@@ -27,7 +27,7 @@
     },
     {
       "displayName": "Utilities Sample",
-      "description": "Utilit\u00e1rios e prefabs de exemplo para testes e desenvolvimento.",
+      "description": "Utilitários e prefabs de exemplo para testes e desenvolvimento.",
       "path": "Samples~/Utilities Sample"
     }
   ],
