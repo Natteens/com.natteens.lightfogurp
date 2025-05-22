@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Natteens/com.natteens.lightfogurp/compare/v1.0.0...v1.0.1) (2025-05-22)
+
+
+### Bug Fixes
+
+* .meta files ([0f85ce2](https://github.com/Natteens/com.natteens.lightfogurp/commit/0f85ce22e217a63b2272dee4efef2507f33e8a09))
+
 # 1.0.0 (2025-05-21)
 
 
