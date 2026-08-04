@@ -14,6 +14,9 @@
     "url": "https://github.com/Natteens"
   },
   "unity": "2021.3",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "12.1.16"
+  },
   "samples": [
     {
       "displayName": "2D Sample",
@@ -31,7 +34,7 @@
       "path": "Samples~/Utilities Sample"
     }
   ],
-  "documentationUrl": "https://github.com/Natteens/LightFogURP",
-  "changelogUrl": "https://github.com/Natteens/LightFogURP/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/Natteens/LightFogURP/blob/main/LICENSE.md"
+  "documentationUrl": "https://github.com/Natteens/com.natteens.lightfogurp",
+  "changelogUrl": "https://github.com/Natteens/com.natteens.lightfogurp/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Natteens/com.natteens.lightfogurp/blob/main/LICENSE.md"
 }
