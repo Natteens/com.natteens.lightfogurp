@@ -2,14 +2,23 @@
 
 LightFogURP é um sistema de fog volumétrica leve e personalizável para Unity URP.
 
-## 📥 Instalação
+## Requisitos
 
-Este pacote pode ser instalado através do Unity Package Manager.
+- Unity 2021.3 ou superior
+- Universal Render Pipeline 12.1.16 ou uma versão compatível fornecida pelo Editor
 
-1. Abra o Package Manager (Window > Package Manager)
-2. Clique no botão + e selecione "Add package from git URL..."
-3. Digite: https://github.com/Natteens/LightFogURP.git
+## Instalação
 
-## 🚀 Uso
+1. Abra o Package Manager em `Window > Package Manager`.
+2. Clique no botão `+` e selecione `Add package from git URL...`.
+3. Use:
 
-*Documentação em desenvolvimento*
+```text
+https://github.com/Natteens/com.natteens.lightfogurp.git
+```
+
+A dependência do URP é declarada no `package.json` e será resolvida pelo Unity Package Manager.
+
+## Uso
+
+*Documentação em desenvolvimento.*
