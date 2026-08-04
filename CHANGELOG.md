@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/Natteens/com.natteens.lightfogurp/compare/v1.0.2...v1.0.3) (2026-08-04)
+
+
+### Bug Fixes
+
+* correct installation URL and requirements ([d61ad78](https://github.com/Natteens/com.natteens.lightfogurp/commit/d61ad785f0080a41e023830017c4e673a7e42265))
+* declare URP dependency and correct package links ([3ca3ee1](https://github.com/Natteens/com.natteens.lightfogurp/commit/3ca3ee1bada3de8a92f9e56a0aea1c4e70da1816))
+* preserve UPM dependencies during release [skip ci] ([8024933](https://github.com/Natteens/com.natteens.lightfogurp/commit/80249331fc54bda49663ec820cb352f45e86c797))
+
 ## [1.0.2](https://github.com/Natteens/com.natteens.lightfogurp/compare/v1.0.1...v1.0.2) (2025-05-22)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "com.natteens.lightfogurp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "LightFogURP",
   "description": "LightFogURP é um sistema de fog volumétrica leve e personalizável para Unity URP.",
   "keywords": [
